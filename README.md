@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native for Mobile Dev**
 
-- 💬 Ask me about **Python, AWS**
+- 💬 Ask me about **Python, AWS, React, Unity**
 
 - 📫 How to reach me **allyx004@umn.edu**
 
