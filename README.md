@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asif Ally</h1>
 <h3 align="center">A Software Engineer based in Minnesota</h3>
 
-- 🌱 I’m currently learning **Godot for Game Development**
+- 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Python, AWS, React, Unity, Godot**
+- 💬 Ask me about **Python, AWS, Unity**
 
 - 📫 How to reach me **allyx004@umn.edu**
 
